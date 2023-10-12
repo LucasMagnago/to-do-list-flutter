@@ -17,11 +17,11 @@ Antes de iniciar, certifique-se de ter o ambiente de desenvolvimento Flutter con
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seunome/seu-repositorio.git
+git clone https://github.com/LucasMagnago/to-do-list-flutter
 ```
 2. Navegue até o diretório do projeto:
 ```bash   
-cd seu-repositorio
+cd to-do-list-flutter
 ```
 3. Execute o aplicativo:
 ```bash
