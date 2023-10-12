@@ -1,16 +1,31 @@
-# to_do_list
+# To-Do List App with Flutter
 
-A new Flutter project.
+Este é um aplicativo simples de lista de tarefas desenvolvido em Flutter. Ele permite que você crie, visualize e gerencie suas tarefas de forma eficiente. 
 
-## Getting Started
+![app print](https://github.com/LucasMagnago/to-do-list-flutter/assets/82664638/89be867e-72df-4771-9f5a-6f8babe7dbcb)
 
-This project is a starting point for a Flutter application.
+## Recursos
 
-A few resources to get you started if this is your first Flutter project:
+- Adicione e exclua tarefas.
+- Marque tarefas como concluídas.
+- Filtre suas tarefas.
+- Interface de usuário amigável e intuitiva.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Instalação
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Antes de iniciar, certifique-se de ter o ambiente de desenvolvimento Flutter configurado. Se você não o tiver, siga as instruções na [documentação oficial do Flutter](https://flutter.dev/docs/get-started/install) para começar.
+
+1. Clone este repositório:
+```bash
+git clone https://github.com/LucasMagnago/to-do-list-flutter
+```
+2. Navegue até o diretório do projeto:
+```bash   
+cd to-do-list-flutter
+```
+3. Execute o aplicativo:
+```bash
+flutter run
+```
+## Licença
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter detalhes.
